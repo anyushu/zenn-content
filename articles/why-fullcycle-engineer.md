@@ -5,6 +5,7 @@ type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["採用", "エンジニア採用", "フルサイクルエンジニア"]
 published: true
 published_at: 2025-06-25 12:00
+publication_name: "lamp_inc"
 ---
 
 株式会社ランプのCTOのanyushuです。
